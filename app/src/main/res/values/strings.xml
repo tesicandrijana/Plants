@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">House Plants</string>
+    <string name="home">Home</string>
+    <string name="saved_plants">Saved plants</string>
+    <string name="plant_details">Plant Details</string>
+    <string name="plant_gallery">Plant Gallery</string>
+    <string name="back_button">Go back</string>
+    <string name="share_order">Check out this Plant app!</string>
+</resources>
